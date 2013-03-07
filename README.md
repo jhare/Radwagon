@@ -1,6 +1,7 @@
 Finally getting around to definiing this idea...
 
-==== Radwagon ====
+Radwagon
+========
 
 Advanced torrent and RSS manager made solely for my own prurient desires and amusement.
 
