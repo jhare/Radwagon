@@ -25,6 +25,7 @@ Initial goals are:
 * Media server management
   * Playlist management
   * Archiving old content
+  * Transcoding
 * Integrating multiple installations
   * Torrenting from home
   * Torrenting from your servers
