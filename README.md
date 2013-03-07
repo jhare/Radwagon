@@ -29,4 +29,5 @@ Initial goals are:
 * Integrating multiple installations
   * Torrenting from home
   * Torrenting from your servers
+* NodeJS web interface
   
