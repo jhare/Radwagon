@@ -23,4 +23,9 @@ Initial goals are:
   * Transfer of files across protocols to other devices
 * Taggable trackers
 * Media server management
+  * Playlist management
+  * Archiving old content
+* Integrating multiple installations
+  * Torrenting from home
+  * Torrenting from your servers
   
